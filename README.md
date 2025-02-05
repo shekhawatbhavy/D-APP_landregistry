@@ -11,7 +11,8 @@ The **Blockchain-Based Land Registry System** is a decentralized application (DA
 - **Transparent and Trustworthy System**: Transactions are visible to authorized network participants, enhancing trust in the process.
 
 ## System Interface
-![System Interface](images/landregister.png.png)
+![System Interface]![landregister png](https://github.com/user-attachments/assets/a86a912d-fcb1-4d1b-abfd-20b467c92761)
+
 
 ## Functionalities
 - **Property Registration**: Users can register land by submitting key details such as location, size, and ownership credentials.
